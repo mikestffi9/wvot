@@ -1,2 +1,0 @@
-# wvot
-My awesome repository
